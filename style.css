@@ -1,0 +1,75 @@
+
+
+ header{
+
+     background-color:#e3f2fd ;
+ }
+.logo a img{
+
+  width: 45px;
+ margin-top: 16px;
+  } 
+
+
+
+  .toast-1{
+
+    position: relative;
+    top: 50px;
+  }
+ 
+.banner-img img{
+
+   height: 500px;
+} 
+
+
+
+
+
+.form-1{
+
+   background-color:#e9ecef ;
+   padding: 10px;
+   border-radius: 5px;
+}
+
+.scrollspy-example{
+
+  overflow: auto;
+  height: 200px;
+  position: relative;
+}
+
+
+.button-color::after{
+
+  display: none;
+} 
+
+.button-color{
+
+    background-color: #f7f7f7;
+    color: #2f93fe;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 2px 3px 7px rgba(0, 0, 0, 0.281);
+    border: none;
+} 
+
+
+
+
+
+
+
+
+
+footer{
+
+     color: wheat;
+     font-size: 20px;
+     background-color: #17a2b8;
+     padding: 20px;
+     margin-top: 20px;
+}
